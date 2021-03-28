@@ -15,17 +15,6 @@ public class Main {
 		System.out.println("Edad: ");
 		int edad = sc.nextInt();
 		sc.nextLine();
-		
-		System.out.println("Introduce la fecha. \nDia:");
-		int dia = sc.nextInt();
-		System.out.println("Mes:");
-		int mes = sc.nextInt();
-		System.out.println("Año: ");
-		int anio = sc.nextInt();
-		
-		System.out.println("\nUsuario: "+usuario
-				+ "\nEdad: "+edad
-				+"\nFecha: "+ dia+"/"+mes+"/"+anio);
 
 	}
 
