@@ -14,8 +14,4 @@ public class Fecha {
 
 	}
 	
-	public String toString () {
-		return "Fecha: "+ dia+"/"+mes+"/"+year;
-	}
-	
 }

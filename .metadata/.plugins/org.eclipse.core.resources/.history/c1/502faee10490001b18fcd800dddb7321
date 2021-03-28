@@ -16,12 +16,16 @@ public class Main {
 		int edad = sc.nextInt();
 		sc.nextLine();
 		
-		Fecha fecha = new Fecha ();
-		
+		System.out.println("Introduce la fecha. \nDia:");
+		int dia = sc.nextInt();
+		System.out.println("Mes:");
+		int mes = sc.nextInt();
+		System.out.println("Año: ");
+		int anio = sc.nextInt();
 		
 		System.out.println("\nUsuario: "+usuario
 				+ "\nEdad: "+edad
-				+fecha.toString());
+				+"\nFecha: "+ dia+"/"+mes+"/"+anio);
 
 	}
 
