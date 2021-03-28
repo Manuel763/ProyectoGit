@@ -11,6 +11,10 @@ public class Main {
 		System.out.println("Nombre y apellidos: ");
 		String usuario = sc.next();
 		sc.nextLine();
+		
+		System.out.println("Edad: ");
+		int edad = sc.nextInt();
+		sc.nextLine();
 
 	}
 
