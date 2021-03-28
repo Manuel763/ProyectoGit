@@ -2,7 +2,6 @@ package Carpeta;
 
 import java.util.Scanner;
 /**
- * Clase principal
  * @author Manuel Sarabia
  * @version 28/03/2021
  */

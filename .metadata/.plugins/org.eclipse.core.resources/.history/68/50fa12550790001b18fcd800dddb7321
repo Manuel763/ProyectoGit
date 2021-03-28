@@ -1,19 +1,9 @@
 package Carpeta;
 
 import java.util.Scanner;
-/**
- * Clase principal
- * @author Manuel Sarabia
- * @version 28/03/2021
- */
 
 public class Main {
-/**
- *Metodo Main
- *@param usuario Nombre y apellidos del usuario
- *@param edad Edad del usuario
- *@param fehca De la clase fecha, fecha actual
- */
+
 	public static void main(String[] args) {
 		System.out.println("Primer proyecto con GIT");
 		
